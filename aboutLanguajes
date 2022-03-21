@@ -1,0 +1,10 @@
+
+In General:
+
+In a Function, you can use the *return* command with comparison operators, this will return a boolean.
+
+JavaScript:
+ * In Javascript, Functions and Procedures are both written as *function*, the only way to tell them apart is the *return*.
+  Functions return something, procedures doesn´t even have *return*.
+
+* 
