@@ -1,2 +1,2 @@
 # Studies
-A folder with all the things I learned and I consider important
+This is the place where I save some files related with my education / Aquí guardo algunos archivos relacionados con mis estudios.
